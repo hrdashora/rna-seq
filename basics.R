@@ -1,0 +1,1 @@
+small_counts <- read.table("data/small_counts.txt", header = TRUE)
