@@ -5,6 +5,7 @@
 
 # Session Data files
 .RData
+.csv
 
 # User-specific files
 .Ruserdata
@@ -18,3 +19,7 @@
 
 # R Environment Variables
 .Renviron
+
+# Image output files
+.png
+
