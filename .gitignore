@@ -4,16 +4,20 @@
 .Rapp.history
 # Session Data files
 .RData
-.csv
-.txt
 # User-specific files
 .Ruserdata
-#RStudio files
+# RStudio files
 .Rproj.user/
 # Temporary files created by R markdown
 *utf8.md
 *knit.md
 # R Environment Variables
 .Renviron
-# Image output files
-.png
+# Input data files
+*.RData
+*.xlsx
+# Output files
+results/*.pdf
+results/*.png
+results/*.csv
+results/*.tsv
