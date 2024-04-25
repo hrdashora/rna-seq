@@ -15,9 +15,9 @@
 .Renviron
 # Input data files
 data/*.csv
-data/*.tsv
 data/*.RData
 data/*.xlsx
+meta/*.tsv
 # Output files
 results/*.pdf
 results/*.png
