@@ -14,10 +14,10 @@
 # R Environment Variables
 .Renviron
 # Input data files
-*.csv
-*.tsv
-*.RData
-*.xlsx
+data/*.csv
+data/*.tsv
+data/*.RData
+data/*.xlsx
 # Output files
 results/*.pdf
 results/*.png
